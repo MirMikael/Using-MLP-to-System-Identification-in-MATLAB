@@ -1,3 +1,6 @@
+% Created by Mir Mikael
+% For quastions: MirMikael.github.io
+%%
 clc
 clear
 close all
